@@ -6,3 +6,8 @@ html{
     padding: 0;
     box-sizing: border-box;
 }
+
+.container{
+    max-width: 1000px;
+    margin: auto;
+}
