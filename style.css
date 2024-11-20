@@ -8,7 +8,7 @@ html{
 }
 
 .container{
-    max-width: 1000px;
+    max-width: 100%;
     margin: auto;
 }
 .row{
@@ -31,6 +31,87 @@ html{
 [class*="col-"]{
     width: 100%;
 }
+
+
+/* HEADER DESIGN STARTS HERE */
+
+header{
+    background: brown;
+    padding: 0% 1%;
+    text-align: center;
+}
+
+.logo-div h1{
+    color: white;
+}
+
+nav ul li{
+    display: block;
+}
+
+nav ul li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    line-height: 50px;
+    border: solid 1px white;
+    padding: 0 20px;
+    margin: 2%;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    transition: .4s;
+}
+
+
+
+
+
+/* HEADER DESIGN ENDS HERE */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* Small screen Start here */
@@ -159,3 +240,6 @@ html{
     }
 }
 /* Large device starts here */
+
+
+
