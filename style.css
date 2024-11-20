@@ -11,6 +11,26 @@ html{
     max-width: 1000px;
     margin: auto;
 }
+.row{
+    width: 100%;
+}
+
+.row::after{
+    clear: both;
+    content: '';
+    display: block;
+}
+
+
+[class*="col-"]{
+    float: left;
+    padding:15px ;
+}
+
+
+[class*="col-"]{
+    width: 100%;
+}
 
 
 /* Small screen Start here */
