@@ -84,6 +84,17 @@ nav ul li a{
 
 }
 
+.banner-contents h1{
+    width: 100%;
+    margin: 15px auto;
+    font-size: 3rem;
+    background: tomato;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
 
 /* Banner ends here */
 
