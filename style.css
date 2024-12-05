@@ -1,3 +1,5 @@
+/* Basic Structer Start Here */
+
 html{
     scroll-behavior: smooth;
 }
@@ -31,6 +33,7 @@ html{
 [class*="col-"]{
     width: 100%;
 }
+/* Basic Structer Ends Here */
 
 
 /* HEADER DESIGN STARTS HERE */
