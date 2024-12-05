@@ -94,6 +94,15 @@ nav ul li a{
     padding: 10px;
 }
 
+.banner-contents p{
+    width: 300px;
+    margin: 15px auto;
+    background-color: aqua;
+    padding: 10px;
+    font-size: 1.5rem;
+    border-radius: 5px;
+}
+
 
 
 /* Banner ends here */
