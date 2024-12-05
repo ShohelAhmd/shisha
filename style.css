@@ -103,6 +103,15 @@ nav ul li a{
     border-radius: 5px;
 }
 
+.btn{
+    width: 160px;
+    padding: 10px;
+    font-size: 1.3rem;
+    border:none;
+    border-radius: 5px;
+    color: white;
+}
+
 
 
 /* Banner ends here */
